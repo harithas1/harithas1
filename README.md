@@ -99,8 +99,3 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harithas1&" alt="harithas1" /></p>
 
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/harithas1/harithas1/blob/output/github-contribution-grid-snake.svg)
